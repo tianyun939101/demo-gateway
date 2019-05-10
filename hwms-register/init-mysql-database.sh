@@ -7,7 +7,7 @@ fi
 
 java -Dspring.datasource.url="jdbc:mysql://db.hzero.org:3306/hzero_platform?useUnicode=true&characterEncoding=utf-8&useSSL=false" \
 	 -Dspring.datasource.username=root \
-	 -Dspring.datasource.password=root \
+	 -Dspring.datasource.password=Wd@939101 \
 	 -Ddata.drop=false \
 	 -Ddata.init=init \
 	 -Ddata.dir=src/main/resources \

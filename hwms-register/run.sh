@@ -8,7 +8,7 @@ echo ">>> cd target"
 cd target
 
 JAR=register.jar
-MPORT=8001
+MPORT=8000
 
 
 echo ">>> kill -9 $(jps -ml | grep $JAR | awk '{print $1}')"
